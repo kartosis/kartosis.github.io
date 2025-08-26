@@ -1,1 +1,1 @@
-# Kartik's personal website and blog.
+# Kartik's personal website and blog
