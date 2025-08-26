@@ -1,2 +1,1 @@
-# kartosis.github.io
-Personal website
+# Kartik's personal website and blog.
