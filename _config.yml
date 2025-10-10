@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kartik Guru"
   avatar : "/assets/images/IMG_5469.jpg"
-  bio    : "Personal website and a log for my thoughts on science & engineering, planning & design, robotics & learning, etc."
+  bio    : "Personal website and a log for my thoughts. I work on automated driving systems & robotics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
