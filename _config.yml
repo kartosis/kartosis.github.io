@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kartik Guru"
   avatar : "/assets/images/IMG_KG.jpg"
-  bio    : "Personal website and blog. I work on motion planning & control in robotics & automated driving systems. Site under development."
+  bio    : "Personal website and blog. I work on motion planning using Bayesian methods & model-based control in automated driving systems. Site under development."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
